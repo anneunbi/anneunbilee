@@ -64,7 +64,7 @@ header {
 	top: 28vh;
 	right: 15vw;
 }
-.art-folder {
+.gallery-folder {
 	top: 52vh;
 	right: 8vw;
 }
@@ -101,7 +101,7 @@ header {
 /* Remove nav-item styles, handled by folder-nav/folder-label */
 .about {}
 .projects {}
-.art {}
+.gallery {}
 .misc {}
 
 main {
